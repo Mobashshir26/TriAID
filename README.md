@@ -1,4 +1,4 @@
-# 🤖 TriAID: The Multimodal AI Medical Assistant  
+# 🩺 TriAID: The Multimodal AI Medical Assistant  
 
 **TriAID** is an intelligent **multimodal AI medical assistant** that can *see, listen, and speak* — enabling natural, real-time, and empathetic healthcare consultations.  
 It unifies **audio**, **visual**, and **textual** understanding using **Google Gemini** and **Edge TTS**, creating a human-like medical interaction experience.  
