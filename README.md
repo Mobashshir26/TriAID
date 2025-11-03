@@ -44,3 +44,18 @@ It unifies **audio**, **visual**, and **textual** understanding using **Google G
    ```bash
    git clone https://github.com/Mobashshir26/TriAID.git
    cd TriAID
+   
+2. **Create and activate a virtual environment**   
+   python -m venv venv
+   source venv/bin/activate   # for macOS/Linux
+   venv\Scripts\activate      # for Windows
+
+3. **Install dependencies**
+   pip install -r requirements.txt
+   
+4. **Add your API key**
+   GOOGLE_API_KEY=your_gemini_api_key_here 
+
+5. **Run the app**
+   streamlit run app.py 
+   
