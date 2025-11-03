@@ -56,8 +56,10 @@ It unifies **audio**, **visual**, and **textual** understanding using **Google G
    pip install -r requirements.txt
    
 4. **Add your API key**
+   ```bash
    GOOGLE_API_KEY=your_gemini_api_key_here 
 
 5. **Run the app**
+   ```bash
    streamlit run app.py 
    
