@@ -45,12 +45,14 @@ It unifies **audio**, **visual**, and **textual** understanding using **Google G
    git clone https://github.com/Mobashshir26/TriAID.git
    cd TriAID
    
-2. **Create and activate a virtual environment**   
+2. **Create and activate a virtual environment**
+   ```bash
    python -m venv venv
    source venv/bin/activate   # for macOS/Linux
    venv\Scripts\activate      # for Windows
 
 3. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
    
 4. **Add your API key**
